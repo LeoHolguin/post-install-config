@@ -44,10 +44,16 @@ Now that we are in the ticketing system we are going to set up our environment t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="720" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/dbaea95d-9cae-4bcb-ad2e-1f31b812cd95">
+<img width="704" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/618a1486-b089-4754-b58e-5b9e1071f1e3">
+<img width="715" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/96b8461e-58f4-4770-926f-7a0aa9864792">
+<img width="718" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/fe5ae5a0-6a61-40ab-abb4-87740f369620">
+
+
+
 </p>
 <p>
-Since tickets are routed through departments now we are going to configure one. 
+Next, we are going to congifure teams which allows us to pull Agnets from departments and organize them. Head over to the teams tab and add a new teamn called Level II Support. Now we are to to check off a box where we allow anyone to create tickets, on the admin panel go to settings, users settings and check off  require registration and login to create tickets. We are next creating agents which are the people who responds and resolves the tickets. Lets head over to agents and create a new agent and for this example its going to be Jane Doe. We are going to be givnig them admin access and assigning them the the new team we made earlier. We are going to create another agent name John Doe and give him similar permissions.
 </p>
 <br />
 
