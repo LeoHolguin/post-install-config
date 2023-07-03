@@ -69,11 +69,25 @@ Then we are going to create users which are basically the customers and they can
 <br />
 <p>
 <img width="730" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/e58742ae-7faa-461e-8c9f-49537a647f25">
+<img width="725" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/8ee8c04f-fc5f-47f4-8df2-398355459ea0">
 
 
 
 </p>
 <p>
-We are going to configure SLA Plans because this provides a length of time in which a ticket expects to be closed. Now we are going back to the admin panel, manage, and on SLA. We are going create three plans of SLA first one Ill walk you through it. Click on add SLA the name should be severity-b with a 4 hour grace peroid which gives us 4 hours to solve that ticket. 
+We are going to configure SLA Plans because this provides a length of time in which a ticket expects to be closed. Now we are going back to the admin panel, manage, and on SLA. We are going create three plans of SLA first one Ill walk you through it. Click on add SLA the name should be severity-b with a 4 hour grace peroid which gives us 4 hours to solve that ticket. Atlast, we have three level of severities which ranges from not so ugrent to really urgent. Now we can use these when we are creating tickets.
+</p>
+<br />
+<p>
+<img width="721" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/348f0cca-9994-4f39-9e3a-5190dab908b5">
+<img width="709" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/cfd31827-de78-4af7-aede-47463e5e5703">
+<img width="712" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/56510f18-b13e-476c-ba7f-2255252193ad">
+
+
+
+
+</p>
+<p>
+Finally, we are going to configure Help topics which helps out the users when they are a creating a ticket. We are on the admin panel already so click on help topics. As we can see from the screenshot above there are already topics but are going to add new ones. We are going to start off by adding business ritical outage, personal computer issues, equipment request, and password reset. We are done with the configuration of osTicket in the next project we will be creating actcaully tickets and solve them.
 </p>
 <br />
