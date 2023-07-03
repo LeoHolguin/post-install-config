@@ -68,11 +68,12 @@ Then we are going to create users which are basically the customers and they can
 </p>
 <br />
 <p>
+<img width="730" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/e58742ae-7faa-461e-8c9f-49537a647f25">
 
 
 
 </p>
 <p>
-
+We are going to configure SLA Plans because this provides a length of time in which a ticket expects to be closed. Now we are going back to the admin panel, manage, and on SLA. We are going create three plans of SLA first one Ill walk you through it. Click on add SLA the name should be severity-b with a 4 hour grace peroid which gives us 4 hours to solve that ticket. 
 </p>
 <br />
