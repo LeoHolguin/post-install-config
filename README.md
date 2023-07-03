@@ -58,9 +58,21 @@ Next, we are going to congifure teams which allows us to pull Agnets from depart
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="484" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/dcc46521-7e04-4706-976e-d5748b7e8c98">
+<img width="722" alt="image" src="https://github.com/LeoHolguin/post-install-config/assets/138087728/c838dca6-7939-4add-a39c-9cd7af5521b0">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then we are going to create users which are basically the customers and they can create accounts and tickets when ever they have a technical problem. Click on agent panel, users, and add a new agent. For this lab We are going to add Karen as one of our users and also another person call Ken.
+</p>
+<br />
+<p>
+
+
+
+</p>
+<p>
+
 </p>
 <br />
