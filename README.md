@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Now that we are in the ticketing system we are going to set up our environment to simulate a real one. First, we are going to configure roles which are the permissions granted to Agents per department that they have access to. Once we login into the osTicket website we are going to head over to the admin panel, agents, and roles. This role is going to be name supreme adimn because we are going to give it every permissions that there is. Since tickets are routed through departments now we are going to configure one. Just by clicking on departments  we can add a new Department called system administrators don't worry about the SLAs just yet we can leave them on default for now.
+Now that we are in the ticketing system we are going to set up our environment to simulate a real one. First, we are going to configure roles which are the permissions granted to Agents per department that they have access to. Once we login into the osTicket website we are going to head over to the admin panel, agents, and roles. This role is going to be named supreme admin because we are going to give it every permission that there is. Since tickets are routed through departments now we are going to configure one. Just by clicking on departments, we can add a new Department called system administrators don't worry about the SLAs just yet we can leave them on default for now.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ Now that we are in the ticketing system we are going to set up our environment t
 
 </p>
 <p>
-Next, we are going to congifure teams which allows us to pull Agnets from departments and organize them. Head over to the teams tab and add a new teamn called Level II Support. Now we are to to check off a box where we allow anyone to create tickets, on the admin panel go to settings, users settings and check off  require registration and login to create tickets. We are next creating agents which are the people who responds and resolves the tickets. Lets head over to agents and create a new agent and for this example its going to be Jane Doe. We are going to be givnig them admin access and assigning them the the new team we made earlier. We are going to create another agent name John Doe and give him similar permissions.
+Next, we are going to configure teams which allows us to pull agents from departments and organize them. Head over to the teams tab and add a new team called Level II Support. Now we are going to check off a box where we allow anyone to create tickets, on the admin panel go to settings, user settings, and check off require registration and login to create tickets. We are next creating agents which are the people who respond and resolve to tickets. Let's head over to agents and create a new agent and for this example, it's going to be Jane Doe. We are going to be giving them admin access and assigning them the the new team we made earlier. We are also going to create another agent name John Doe and give him similar permissions.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Next, we are going to congifure teams which allows us to pull Agnets from depart
 
 </p>
 <p>
-Then we are going to create users which are basically the customers and they can create accounts and tickets when ever they have a technical problem. Click on agent panel, users, and add a new agent. For this lab We are going to add Karen as one of our users and also another person call Ken.
+Then we are going to create users which are the customers that create accounts and tickets whenever they have a technical problem. Click on agent panel, users, and add a new agent. For this lab We are going to add Karen as one of our users and also another person called Ken.
 </p>
 <br />
 <p>
@@ -68,7 +68,7 @@ Then we are going to create users which are basically the customers and they can
 
 </p>
 <p>
-We are going to configure SLA Plans because this provides a length of time in which a ticket expects to be closed. Now we are going back to the admin panel, manage, and on SLA. We are going create three plans of SLA first one Ill walk you through it. Click on add SLA the name should be severity-b with a 4 hour grace peroid which gives us 4 hours to solve that ticket. Atlast, we have three level of severities which ranges from not so ugrent to really urgent. Now we can use these when we are creating tickets.
+We are going to configure SLA Plans because this provides a length of time in which a ticket expects to be closed. Now we are going back to the admin panel, manage, and on SLA. We are going to create three plans of SLA. Click on add SLA the name is going to be severity-b with a 4-hour grace period which gives us 4 hours to solve that ticket. Last, we have three SLAs which ranges from not so urgent to really urgent. Now we can use these when we are dealing with tickets.
 </p>
 <br />
 <p>
@@ -81,6 +81,6 @@ We are going to configure SLA Plans because this provides a length of time in wh
 
 </p>
 <p>
-Finally, we are going to configure Help topics which helps out the users when they are a creating a ticket. We are on the admin panel already so click on help topics. As we can see from the screenshot above there are already topics but are going to add new ones. We are going to start off by adding business ritical outage, personal computer issues, equipment request, and password reset. We are done with the configuration of osTicket in the next project we will be creating actcaully tickets and solve them.
+Finally, we are going to configure Help topics which helps out the users when creating a ticket. We are on the admin panel already so click on help topics. As we can see from the screenshot above there are already topics but we are going to add new ones.Start by adding business critical outages, personal computer issues, equipment requests, and password reset. We are done with the configuration of osTicket in my next project we will be creating actual tickets and resolving them.
 </p>
 <br />
